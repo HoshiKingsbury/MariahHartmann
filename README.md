@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MariahHartmann
 - 👀 I’m interested in Anime, manga, Cosplay, wolves, pandas, dolphins, penguins, video games, dead things (preservation)
-- 🌱 I’m currently learning ... game design and programming, programming logic and design, web design, 3-d modeling,  and comp 1.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... Project dev, animation 2, and lvl design.
+- 📫 How to reach me ... Hartmann.m060890@stu.sanjac.edu or through discord
 
 <!---
 MariahHartmann/MariahHartmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
